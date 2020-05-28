@@ -8,5 +8,5 @@ Consulta a la reniec o a la Sunat desde wordpress mediante DNI podras verificar 
 
 ### URL SUNAT
 ```php
-//api.sunat.cloud/ruc/{REEMPLAZAR ESTO POR EL NUMERO DNI}
+//api.sunat.cloud/ruc/{REEMPLAZAR ESTO POR EL NUMERO RUC}
 ```
