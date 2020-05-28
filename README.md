@@ -5,3 +5,7 @@ Consulta a la reniec desde wordpress mediante DNI podras verificar si una person
 //api.reniec.cloud/dni/{REEMPLAZAR ESTO POR EL NUMERO DNI}
 ```
 
+### URL SUNAT
+```php
+https://api.sunat.cloud/ruc/{REEMPLAZAR ESTO POR EL NUMERO DNI}
+```
